@@ -1,0 +1,47 @@
+#Circle_1 {
+    background-color: #ff0202;
+    border-radius: 60%;
+    margin-top: 200px;
+    margin-left: 470px;
+    width: 200px;
+    height: 200px;
+}
+
+#text_names_1 {
+    font-size: 19px;
+    font-weight: bold;
+    font-family: Cambria;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: -378px;
+}
+
+#text_names_2 {
+    font-size: 19px;
+    font-weight: bold;
+    font-family: Cambria;
+    text-align: center;
+    margin-top: -19px;
+    margin-left: 230px;
+}
+
+#Circle_2 {
+    background-color: yellow;
+    border-radius: 50%;
+    margin-top: -195px;
+    margin-left: 770px;
+    width: 200px;
+    height: 200px;
+}
+
+#ins_button {
+    position: absolute;
+    top: 67%;
+    left: 44%;
+    border-radius: 7px;
+    color: white;
+    padding: 15px 32px;
+    background-color: navy;
+    font-weight: bold;
+    cursor: pointer;
+  }
